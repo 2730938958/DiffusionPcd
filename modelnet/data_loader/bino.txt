@@ -1,0 +1,6 @@
+bun000.ply bun045.ply
+bun045.ply bun090.ply
+bun090.ply bun180.ply
+bun180.ply bun270.ply
+bun270.ply bun315.ply
+bun315.ply bun000.ply
